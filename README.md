@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate front-end developer from Brazil, based in Dubai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ltorresl&label=Profile%20views&color=0e75b6&style=flat" alt="ltorresl" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ltorresl" alt="ltorresl" /></a> </p>
-
 - 🔭 I’m currently working on [HereAfter](hereafter.digital)
 
 - 🌱 I’m currently learning **Ruby on Rails, React and JavaScript**
