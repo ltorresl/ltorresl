@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, React and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ltorresl](https://github.com/ltorresl)
+- 👨‍💻 All of my projects are available at my [portfolio](https://www.notion.so/Lucas-Leite-Junior-Frontend-Developer-d66f74b5351245c1a0becf6f6e082c7d)
 
 - ⚡ Fun fact **I'm a music geek**
 
