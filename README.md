@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate front-end developer from Brazil, based in Dubai</h3>
 
-- 🔭 I’m currently working on [HereAfter](hereafter.digital)
+- 🔭 I’m currently working on [Simplest Blog](https://github.com/ltorresl/simplest-blog)
 
 - 🌱 I’m currently learning **Ruby on Rails, React and JavaScript**
 
